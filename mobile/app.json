@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "VerifiedSeva",
+    "slug": "verifiedseva-mobile",
+    "version": "1.0.0",
+    "platforms": ["android"],
+    "sdkVersion": "49.0.0"
+  }
+}
